@@ -26,7 +26,7 @@ go get gofr.dev
 
 ## Overview
 
-This project is a library management system implemented in Go (Golang) using a MySQL database. It provides functionality for managing books and users, as well as establishing relationships between them.
+This project is a library management system implemented in Go (Golang) framework GoFr using a MySQL database. It provides functionality for managing books and users, as well as establishing relationships between them.
 
 ## Project Structure
 
